@@ -94,6 +94,11 @@ GITHUBTARBALL
     quicksilver (0.0.2)
 
 GITHUBTARBALL
+  remote: psi/puppet-vagrant
+  specs:
+    vagrant (0.0.1)
+
+GITHUBTARBALL
   remote: puppetlabs/puppetlabs-stdlib
   specs:
     stdlib (3.0.0)
@@ -118,5 +123,6 @@ DEPENDENCIES
   ruby (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  vagrant (= 0.0.1)
   virtualbox (= 1.0.0)
 

@@ -45,3 +45,4 @@ github "onepassword", "1.0.0"
 github "virtualbox",  "1.0.0"
 
 github "quicksilver", "0.0.2", :repo => "psi/puppet-quicksilver"
+github "vagrant",     "0.0.1", :repo => "psi/puppet-vagrant"

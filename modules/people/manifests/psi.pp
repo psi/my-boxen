@@ -5,5 +5,6 @@ class people::psi {
   include java
   include onepassword
   include quicksilver
+  include vagrant
   include virtualbox
 }
