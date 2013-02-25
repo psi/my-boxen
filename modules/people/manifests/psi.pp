@@ -1,4 +1,5 @@
 class people::psi {
+  include adium
   include chrome
   include dropbox
   include flux

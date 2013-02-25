@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/billyogat/puppet-adium.git
+  ref: master
+  sha: e45451a1c513a261d9b260b707006ffcb034f704
+  specs:
+    adium (1.0.0)
+
 GITHUBTARBALL
   remote: StreetEasy/puppet-streeteasy
   specs:
@@ -124,6 +131,7 @@ GITHUBTARBALL
     stdlib (3.0.0)
 
 DEPENDENCIES
+  adium (>= 0)
   boxen (= 1.0.2)
   chrome (= 1.0.0)
   dnsmasq (= 1.0.0)
