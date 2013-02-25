@@ -14,4 +14,6 @@ class people::psi {
   include vlc
 
   #include streeteasy
+  
+  package { "wget": }
 }
