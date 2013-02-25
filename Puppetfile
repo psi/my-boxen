@@ -43,3 +43,5 @@ github "flux",        "0.0.1"
 github "java",        "1.0.5"
 github "onepassword", "1.0.0"
 github "virtualbox",  "1.0.0"
+
+github "quicksilver", "0.0.2", :repo => "psi/puppet-quicksilver"
