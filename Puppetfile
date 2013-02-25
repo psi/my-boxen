@@ -42,10 +42,13 @@ github "dropbox",     "1.0.0"
 github "flux",        "0.0.1"
 github "iterm2",      "1.0.0"
 github "java",        "1.0.5"
+github "macvim",      "1.0.0"
 github "onepassword", "1.0.0"
 github "virtualbox",  "1.0.0"
 
 github "transmit",    "1.0.0", :repo => "benscholler/puppet-transmit"
+
+github "streeteasy",  "0.0.2", :repo => "StreetEasy/puppet-streeteasy"
 
 github "quicksilver", "0.0.2", :repo => "psi/puppet-quicksilver"
 github "vagrant",     "0.0.1", :repo => "psi/puppet-vagrant"
