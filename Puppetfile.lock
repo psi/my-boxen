@@ -111,6 +111,11 @@ GITHUBTARBALL
     virtualbox (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.0)
+
+GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
   specs:
     inifile (0.9.0)
@@ -157,4 +162,5 @@ DEPENDENCIES
   transmit (= 1.0.0)
   vagrant (= 0.0.1)
   virtualbox (= 1.0.0)
+  vlc (= 1.0.0)
 

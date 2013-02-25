@@ -45,6 +45,7 @@ github "java",        "1.0.5"
 github "macvim",      "1.0.0"
 github "onepassword", "1.0.0"
 github "virtualbox",  "1.0.0"
+github "vlc",         "1.0.0"
 
 mod "adium", :git => "git://github.com/billyogat/puppet-adium.git"
 github "transmit",    "1.0.0", :repo => "benscholler/puppet-transmit"

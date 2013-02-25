@@ -11,6 +11,7 @@ class people::psi {
   include transmit
   include vagrant
   include virtualbox
+  include vlc
 
   #include streeteasy
 }
