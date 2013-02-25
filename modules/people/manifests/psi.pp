@@ -6,6 +6,7 @@ class people::psi {
   include java
   include onepassword
   include quicksilver
+  include transmit
   include vagrant
   include virtualbox
 }

@@ -45,5 +45,7 @@ github "java",        "1.0.5"
 github "onepassword", "1.0.0"
 github "virtualbox",  "1.0.0"
 
+github "transmit",    "1.0.0", :repo => "benscholler/puppet-transmit"
+
 github "quicksilver", "0.0.2", :repo => "psi/puppet-quicksilver"
 github "vagrant",     "0.0.1", :repo => "psi/puppet-vagrant"

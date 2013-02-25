@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: benscholler/puppet-transmit
+  specs:
+    transmit (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (1.0.2)
@@ -129,6 +134,7 @@ DEPENDENCIES
   ruby (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  transmit (= 1.0.0)
   vagrant (= 0.0.1)
   virtualbox (= 1.0.0)
 
