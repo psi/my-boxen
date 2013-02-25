@@ -4,9 +4,24 @@ GITHUBTARBALL
     boxen (1.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-flux
+  specs:
+    flux (0.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-gcc
@@ -29,6 +44,11 @@ GITHUBTARBALL
     hub (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.0.5)
+
+GITHUBTARBALL
   remote: boxen/puppet-nginx
   specs:
     nginx (1.0.0)
@@ -44,6 +64,11 @@ GITHUBTARBALL
     nvm (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-onepassword
+  specs:
+    onepassword (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
     ruby (1.0.0)
@@ -52,6 +77,11 @@ GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.0)
 
 GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
@@ -65,16 +95,22 @@ GITHUBTARBALL
 
 DEPENDENCIES
   boxen (= 1.0.2)
+  chrome (= 1.0.0)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.0.0)
+  flux (= 0.0.1)
   gcc (= 1.0.0)
   git (= 1.0.0)
   homebrew (= 1.0.0)
   hub (= 1.0.0)
   inifile (= 0.9.0)
+  java (= 1.0.5)
   nginx (= 1.0.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
+  onepassword (= 1.0.0)
   ruby (= 1.0.0)
   stdlib (= 3.0.0)
   sudo (= 1.0.0)
+  virtualbox (= 1.0.0)
 
