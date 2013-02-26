@@ -121,6 +121,11 @@ GITHUBTARBALL
     inifile (0.9.0)
 
 GITHUBTARBALL
+  remote: lucadegasperi/puppet-sequel_pro
+  specs:
+    sequel_pro (1.0.0)
+
+GITHUBTARBALL
   remote: psi/puppet-quicksilver
   specs:
     quicksilver (0.0.2)
@@ -156,6 +161,7 @@ DEPENDENCIES
   onepassword (= 1.0.0)
   quicksilver (= 0.0.2)
   ruby (= 1.0.0)
+  sequel_pro (= 1.0.0)
   stdlib (= 3.0.0)
   streeteasy (= 0.0.2)
   sudo (= 1.0.0)

@@ -9,6 +9,7 @@ class people::psi {
   include mailplane
   include onepassword
   include quicksilver
+  include sequel_pro
   include transmit
   include vagrant
   include virtualbox
