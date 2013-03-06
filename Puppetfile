@@ -52,7 +52,8 @@ mod "adium", :git => "git://github.com/billyogat/puppet-adium.git"
 github "sequel_pro",  "1.0.0", :repo => "lucadegasperi/puppet-sequel_pro"
 github "transmit",    "1.0.0", :repo => "benscholler/puppet-transmit"
 
-github "streeteasy",  "0.0.2", :repo => "StreetEasy/puppet-streeteasy"
+github "streeteasy",  "0.0.3", :repo => "StreetEasy/puppet-streeteasy"
 
 github "quicksilver", "0.0.2", :repo => "psi/puppet-quicksilver"
+github "traktor",     "0.0.1", :repo => "psi/puppet-traktor"
 github "vagrant",     "0.0.1", :repo => "psi/puppet-vagrant"

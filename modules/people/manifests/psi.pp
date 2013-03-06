@@ -10,6 +10,7 @@ class people::psi {
   include onepassword
   include quicksilver
   include sequel_pro
+  include traktor
   include transmit
   include vagrant
   include virtualbox
@@ -17,7 +18,13 @@ class people::psi {
 
   #include streeteasy
   
-  package { "wget": }
+  package {
+    [
+      "tmux",
+      "unison",
+      "wget"
+    ]:
+  }
 
   boxen::osx_defaults {"Put the Dock on the right":
     key    => "orientation",
