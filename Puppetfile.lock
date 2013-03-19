@@ -1,0 +1,178 @@
+GIT
+  remote: git://github.com/billyogat/puppet-adium.git
+  ref: master
+  sha: f56ff95aa7c09a59bab0222c1389511a95934990
+  specs:
+    adium (1.0.0)
+
+GITHUBTARBALL
+  remote: StreetEasy/puppet-streeteasy
+  specs:
+    streeteasy (0.0.3)
+
+GITHUBTARBALL
+  remote: benscholler/puppet-transmit
+  specs:
+    transmit (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-boxen
+  specs:
+    boxen (1.0.2)
+
+GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dnsmasq
+  specs:
+    dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-flux
+  specs:
+    flux (0.0.1)
+
+GITHUBTARBALL
+  remote: boxen/puppet-gcc
+  specs:
+    gcc (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-git
+  specs:
+    git (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-homebrew
+  specs:
+    homebrew (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-hub
+  specs:
+    hub (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-iterm2
+  specs:
+    iterm2 (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-java
+  specs:
+    java (1.0.5)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nginx
+  specs:
+    nginx (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nodejs
+  specs:
+    nodejs (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-nvm
+  specs:
+    nvm (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-onepassword
+  specs:
+    onepassword (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-ruby
+  specs:
+    ruby (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sudo
+  specs:
+    sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-virtualbox
+  specs:
+    virtualbox (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.0)
+
+GITHUBTARBALL
+  remote: cprice-puppet/puppetlabs-inifile
+  specs:
+    inifile (0.9.0)
+
+GITHUBTARBALL
+  remote: lucadegasperi/puppet-sequel_pro
+  specs:
+    sequel_pro (1.0.0)
+
+GITHUBTARBALL
+  remote: psi/puppet-quicksilver
+  specs:
+    quicksilver (0.0.2)
+
+GITHUBTARBALL
+  remote: psi/puppet-traktor
+  specs:
+    traktor (0.0.1)
+
+GITHUBTARBALL
+  remote: psi/puppet-vagrant
+  specs:
+    vagrant (0.0.1)
+
+GITHUBTARBALL
+  remote: puppetlabs/puppetlabs-stdlib
+  specs:
+    stdlib (3.0.0)
+
+DEPENDENCIES
+  adium (>= 0)
+  boxen (= 1.0.2)
+  chrome (= 1.0.0)
+  dnsmasq (= 1.0.0)
+  dropbox (= 1.0.0)
+  flux (= 0.0.1)
+  gcc (= 1.0.0)
+  git (= 1.0.0)
+  homebrew (= 1.0.0)
+  hub (= 1.0.0)
+  inifile (= 0.9.0)
+  iterm2 (= 1.0.0)
+  java (= 1.0.5)
+  macvim (= 1.0.0)
+  nginx (= 1.0.0)
+  nodejs (= 1.0.0)
+  nvm (= 1.0.0)
+  onepassword (= 1.0.0)
+  quicksilver (= 0.0.2)
+  ruby (= 1.0.0)
+  sequel_pro (= 1.0.0)
+  stdlib (= 3.0.0)
+  streeteasy (= 0.0.3)
+  sudo (= 1.0.0)
+  traktor (= 0.0.1)
+  transmit (= 1.0.0)
+  vagrant (= 0.0.1)
+  virtualbox (= 1.0.0)
+  vlc (= 1.0.0)
+
